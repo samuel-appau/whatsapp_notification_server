@@ -1,0 +1,3 @@
+from .whatsapp_view import whatsapp_router, whatsapp_base_url
+from .whatsapp_account_view import whatsapp_account_router, whatsapp_account_base_url
+from .whatsapp_template_view import whatsapp_template_base_url, whatsapp_template_router
